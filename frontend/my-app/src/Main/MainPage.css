@@ -1,0 +1,55 @@
+/* nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: navy;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  nav a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  nav a:hover {
+    color: #0066CC;
+  }
+
+  footer {
+    position: absolute;
+    width: 100%;
+    height: 2.5rem;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #870d0d;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .card-img{
+    width: 1000px;
+    height: 500px;
+  }
+
+  .component{
+    color: blue;
+    font-weight: 500;
+    background-color: aliceblue;
+  }
+
+  .col-lg-6 image-div{
+    width: 1000px;
+    height: 1000px;
+  }
+.navbar navbar-expand-lg navbar-dark bg-dark{
+  background-color: coral;
+}
+body{
+  background-color: coral;
+} */

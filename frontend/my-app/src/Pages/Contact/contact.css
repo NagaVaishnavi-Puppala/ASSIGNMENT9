@@ -1,0 +1,20 @@
+.card-img{
+    width: 1000px;
+    height: 500px;
+  }
+  .component{
+    color: blue;
+    font-weight: 500;
+    background-color: aliceblue;
+  }
+  .col-lg-6 image-div{
+    
+    width: 1000px;
+    height: 1000px;
+  }
+  .container{
+    background-color: aliceblue;
+  }
+  .contactsub{
+    font-style: italic;
+  }
